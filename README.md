@@ -8,6 +8,11 @@ As usual, every university student bound to take some classes with assigned read
 * BeautifulSoup
 * gTTS 
 
+### Installing Dependencies 
+```
+pip3 install -r requirements.txt
+```
+
 ### Run 
 ```
 python tts.py
