@@ -1,4 +1,4 @@
-# TTS
+# Lazy Reader
 > A simple hack using web scrape and text-to-speech (TTS) to generate a .mp3 file. 
 
 ### Why Build This?
